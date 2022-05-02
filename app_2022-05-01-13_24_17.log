@@ -1,0 +1,6 @@
+2022-May-01 13:24:23 PM [main] INFO  com.inetbanking.testcases.BaseClass - inetbanking
+2022-May-01 13:24:44 PM [main] INFO  com.inetbanking.testcases.BaseClass - url opened
+2022-May-01 13:24:56 PM [main] INFO  com.inetbanking.testcases.BaseClass - username enteredmngr402779
+2022-May-01 13:24:56 PM [main] INFO  com.inetbanking.testcases.BaseClass - password enteredvYnUdAs
+2022-May-01 13:25:01 PM [main] INFO  com.inetbanking.testcases.BaseClass - clicked on submit
+2022-May-01 13:25:01 PM [main] INFO  com.inetbanking.testcases.BaseClass - login test passed

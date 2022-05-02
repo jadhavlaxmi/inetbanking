@@ -1,0 +1,9 @@
+2022-May-01 16:41:58 PM [main] INFO  com.inetbanking.testcases.BaseClass - inetbanking
+2022-May-01 16:42:14 PM [main] INFO  com.inetbanking.testcases.BaseClass - url opened
+2022-May-01 16:42:19 PM [main] INFO  com.inetbanking.testcases.BaseClass - User name is provided
+2022-May-01 16:42:20 PM [main] INFO  com.inetbanking.testcases.BaseClass - Passsword is provided
+2022-May-01 16:42:29 PM [main] INFO  com.inetbanking.testcases.BaseClass - login successful
+2022-May-01 16:42:33 PM [main] INFO  com.inetbanking.testcases.BaseClass - providing customer details....
+2022-May-01 16:42:33 PM [main] INFO  com.inetbanking.testcases.BaseClass - ad dilogue box closed
+2022-May-01 16:42:53 PM [main] INFO  com.inetbanking.testcases.BaseClass - validation started....
+2022-May-01 16:42:53 PM [main] INFO  com.inetbanking.testcases.BaseClass - test case passed....

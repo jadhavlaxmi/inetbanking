@@ -1,0 +1,6 @@
+2022-May-01 16:39:20 PM [main] INFO  com.inetbanking.testcases.BaseClass - inetbanking
+2022-May-01 16:39:46 PM [main] INFO  com.inetbanking.testcases.BaseClass - url opened
+2022-May-01 16:39:56 PM [main] INFO  com.inetbanking.testcases.BaseClass - User name is provided
+2022-May-01 16:39:56 PM [main] INFO  com.inetbanking.testcases.BaseClass - Passsword is provided
+2022-May-01 16:40:03 PM [main] INFO  com.inetbanking.testcases.BaseClass - login successful
+2022-May-01 16:40:07 PM [main] INFO  com.inetbanking.testcases.BaseClass - providing customer details....
