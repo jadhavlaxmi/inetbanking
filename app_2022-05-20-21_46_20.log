@@ -1,0 +1,10 @@
+2022-May-20 21:46:21 PM [main] INFO  com.inetbanking.testcases.BaseClass - inetbanking
+2022-May-20 21:46:59 PM [main] INFO  com.inetbanking.testcases.BaseClass - url opened
+2022-May-20 21:47:08 PM [main] INFO  com.inetbanking.testcases.BaseClass - username enteredmngr402779
+2022-May-20 21:47:08 PM [main] INFO  com.inetbanking.testcases.BaseClass - password enteredvYnUdAs
+2022-May-20 21:47:10 PM [main] INFO  com.inetbanking.testcases.BaseClass - clicked on submit
+2022-May-20 21:47:11 PM [main] INFO  com.inetbanking.testcases.BaseClass - inetbanking
+2022-May-20 21:47:39 PM [main] INFO  com.inetbanking.testcases.BaseClass - url opened
+2022-May-20 21:47:49 PM [main] INFO  com.inetbanking.testcases.BaseClass - User name is provided
+2022-May-20 21:47:49 PM [main] INFO  com.inetbanking.testcases.BaseClass - Passsword is provided
+2022-May-20 21:47:50 PM [main] INFO  com.inetbanking.testcases.BaseClass - login successful

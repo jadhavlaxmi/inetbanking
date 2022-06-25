@@ -14,13 +14,6 @@
           <include name="loginTest"/>
         </methods>
       </class> <!-- com.inetbanking.testcases.TC_LoginTest_001 -->
-      <class name="com.inetbanking.testcases.TC_LoginTDD_002">
-        <methods>
-          <include name="LoginDDT" invocation-numbers="1 2 4"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.inetbanking.testcases.TC_LoginTDD_002 -->
       <class name="com.inetbanking.testcases.TC_AddCustomerTest_003">
         <methods>
           <include name="setUp"/>
